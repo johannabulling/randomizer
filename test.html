@@ -3,59 +3,61 @@
 <head>
   <meta charset="utf-8">
   <title>slice demo</title>
-  <style>
-  div {
-    width: 40px;
-    height: 40px;
-    margin: 10px;
-    float: left;
-    border: 2px solid blue;
-  }
-  span {
-    color: red;
-    font-weight: bold;
-  }
-  button {
-    margin: 5px;
-  }
-  </style>
+  <link rel="stylesheet" href="css/bootstrap.css">
   <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
 </head>
 <body>
  
-<p><button>Turn slice yellow</button>
-  <span>Click the button!</span></p>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
+<div class="container">
+  <div class="col-xs-6 trend" style="background:red;">1</div>
+  <div class="col-xs-6 trend" style="background:red;">2</div>
+  <div class="col-xs-6 trend" style="background:red;">3</div>
+  <div class="col-xs-6 trend" style="background:red;">4</div>
+  <div class="col-xs-6 trend" style="background:red;">5</div>
+  <div class="col-xs-6 trend" style="background:red;">6</div>
+  <div class="col-xs-6 trend" style="background:red;">7</div>
+  <div class="col-xs-6 trend" style="background:red;">8</div>
+  <div class="col-xs-6 trend" style="background:red;">9</div>
+  <div class="col-xs-6 trend" style="background:red;">10</div>
+</div>
+
+<button id="shuffle">Click to pick X elements at random:</button>
+<input type="text" size="3" value="7" />
+<button id="show_all">Show all numbers</button>
  
 <script>
-function colorEm() {
-  var $div = $( "div" );
-  var start = Math.floor( Math.random() * $div.length );
-  var end = Math.floor( Math.random() * ( $div.length - start ) ) +
-    start + 1;
-  if ( end === $div.length ) {
-    end = undefined;
-  }
-  $div.css( "background", "" );
-  if ( end ) {
-    $div.slice( start, end ).css( "background", "yellow" );
-  } else {
-    $div.slice( start ).css( "background", "yellow" );
-  }
-  $( "span" ).text( "$( 'div' ).slice( " + start +
-    (end ? ", " + end : "") +
-    ").css( 'background', 'yellow' );" );
+function shuffle(array) {
+    var m = array.length,
+        t, i;
+
+    // While there remain elements to shuffle…
+    while (m) {
+
+        // Pick a remaining element…
+        i = Math.floor(Math.random() * m--);
+
+        // And swap it with the current element.
+        t = array[m];
+        array[m] = array[i];
+        array[i] = t;
+    }
+
+    return array;
 }
- 
-$( "button" ).click( colorEm );
+
+$(function () {
+    $("#shuffle").click(function () {
+        var $all = $("div.trend").show();
+        $(shuffle($all).slice(0, $("input").val())).hide();
+    });
+});
+
+
+$(function () {
+    $("#show_all").click(function () {
+        var $all = $("div.trend").show();
+    });
+});
 </script>
  
 </body>
