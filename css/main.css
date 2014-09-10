@@ -47,45 +47,31 @@ body {
 
 
 
-.button
-	{
-		display: inline-block;
-		background-color: #ed5c97;
-		color: #fff;
-		border: 0;
-		cursor: pointer;
-		outline: 0;
-		-moz-transition: background-color .25s ease-in-out;
-		-webkit-transition: background-color .25s ease-in-out;
-		-o-transition: background-color .25s ease-in-out;
-		-ms-transition: background-color .25s ease-in-out;
-		transition: background-color .25s ease-in-out;
-	}
 
-		.button:hover
-		{
-			background-color: #f35388;
-		}
-		
-		.button:active
-		{
-			background-color: #444444;
-		}
-	
-		.button-alt
-		{
-			background-color: #777777;
-		}
+.btn-default
+{
+padding: 5px 10px 7px !important;
+font-size: 18px !important;
+background-color: #57d6c7;
+font-weight: bold;
+text-shadow: 1px 1px #57D6C7;
+color: #ffffff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border: 1px solid #57D6C7;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
 
-			.button-alt:hover
-			{
-				background-color: #888888;
-			}
-			
-			.button-alt:active
-			{
-				background-color: #999999;
-			}
+.btn {
+	position: absolute;
+	bottom: 34px;
+	left: 58px;
+}
+
 
 
 /*.popover {
