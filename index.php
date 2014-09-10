@@ -24,6 +24,7 @@
 </head>
 
 <body>
+  <div class="future-background" id="future-background"></div>
   <center>
       <!--[if lt IE 7]>
           <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -37,22 +38,21 @@
       </div><!-- /.container-fluid -->
     </nav>
 
-
-
-
-    </div>
-
     <div class="container">
       <br/>
       <div class="row">
-      <div class="col-xs-12">
-        <button type="button" id="shuffle" class="btn btn-primary btn-lg">Get three trends</button>
-        <input type="text" size="3" value="7" style="visibility: hidden;" />  
-        <button type="button" id="show_all" class="btn btn-success btn-lg">Display all trends</button>
+        <div class="col-xs-12 chosen">
+          <button type="button" id="shuffle" class="btn btn-primary btn-lg">START RANDOMIZER</button>
+          <input type="text" size="3" value="17" style="visibility: hidden;" />  
+          <button type="button" id="show_all" class="btn btn-success btn-lg">DISPLAY ALL</button>
+        </div>
       </div>
+
+      <br><br>
+
+      <div class="future-message" id="future-message">
+        Go. Create your future with fuffr! 
       </div>
-      
-      <br><br>      
 
       <!-- Trend 1 -->
       <?php include 'trend_1.php';  ?>
@@ -83,6 +83,36 @@
 
       <!-- Trend 10 -->
       <?php include 'trend_10.php';  ?>
+
+      <!-- Trend 11 -->
+      <?php include 'trend_11.php';  ?>
+
+      <!-- Trend 12 -->
+      <?php include 'trend_12.php';  ?>
+
+      <!-- Trend 13 -->
+      <?php include 'trend_13.php';  ?>
+
+      <!-- Trend 14 -->
+      <?php include 'trend_14.php';  ?>
+
+      <!-- Trend 15 -->
+      <?php include 'trend_15.php';  ?>
+
+      <!-- Trend 16 -->
+      <?php include 'trend_16.php';  ?>
+
+      <!-- Trend 17 -->
+      <?php include 'trend_17.php';  ?>
+
+      <!-- Trend 18 -->
+      <?php include 'trend_18.php';  ?>
+
+      <!-- Trend 19 -->
+      <?php include 'trend_19.php';  ?>
+
+      <!-- Trend 20 -->
+      <?php include 'trend_20.php';  ?>
 
 
       <br/>
@@ -122,8 +152,11 @@
 
     $(function () {
         $("#shuffle").click(function () {
+            $('#future-background').css('visibility','visible').hide().fadeIn(500, function() {
             var $all = $("div.trend").show();
             $(shuffle($all).slice(0, $("input").val())).hide();
+            $('.trend').addClass('col-xs-12 col-md-4 chosen').removeClass('col-xs-12 col-md-3 col-sm-6');
+            });
         });
     });
 
@@ -132,14 +165,22 @@
         $("#show_all").click(function () {
             // var $all = $("div.trend").show();
             var $all = $("div.trend").hide();
+            $('.trend').addClass('col-xs-12 col-md-3 col-sm-6').removeClass('col-xs-12 col-md-4');
+            $('#future-background').css('visibility','hidden').fadeIn();
             startfadein()
-
-
         });
     });
   </script>
 
   <script type="text/javascript">
+
+  function fadein_chosen() {
+    setTimeout(function(){
+        $("div.future-background").delay(100).fadeIn("slow", function () {
+        $("div.future-background").add();
+        });
+    }, 50);
+  };
 
   function startfadein() {
      setTimeout(function(){
@@ -243,6 +284,24 @@
         $("div.trend_17").add();
         });
     }, 850);
+
+     setTimeout(function(){
+        $("div.trend_18").delay(200).fadeIn("slow", function () {
+        $("div.trend_18").add();
+        });
+    }, 900);
+
+     setTimeout(function(){
+        $("div.trend_19").delay(200).fadeIn("slow", function () {
+        $("div.trend_19").add();
+        });
+    }, 950);
+
+     setTimeout(function(){
+        $("div.trend_20").delay(200).fadeIn("slow", function () {
+        $("div.trend_20").add();
+        });
+    }, 1000);
   };
 
   $(document).ready(function(){
@@ -251,7 +310,7 @@
 
   </script>
 
-  // <script type="text/javascript">
+  <script type="text/javascript">
   //   function fadeContent() {
   //     $(".container .trend:hidden:first").fadeIn(500).delay(2000, function() {
   //       $(this).appendTo($(this).parent());
@@ -259,7 +318,23 @@
   //         });
   //       }
   //   fadeContent();
-  // </script>
+  </script>
+
+  <!-- Alternative Randomization Logic -->
+  <script type="text/javascript">
+    // var arr = []
+    //   while(arr.length < 4){
+    //     var randomnumber=Math.ceil(Math.random()*100)
+    //     var found=false;
+    //     for(var i=0;i<arr.length;i++){
+    //       if(arr[i]==randomnumber){found=true;break}
+    //     }
+    //     if(!found)arr[arr.length]=randomnumber;
+    //   }
+
+    //   var singlenumber = Math.floor(Math.random() * (21 - 1) ) + 1;
+    //   document.write(singlenumber);
+    </script>
 
   <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
   <script>

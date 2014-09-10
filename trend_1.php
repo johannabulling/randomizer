@@ -1,7 +1,7 @@
 <!-- SQUARE 1-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_1">
         <div class="padding-test well">
-          <h2>Self tracking</h2>
+          <h2>Self tracking</br></br></h2>
           <span class="glyphicon glyphicon-search"></span>
           <p>Wearables that help tracking oneself.</p>
 

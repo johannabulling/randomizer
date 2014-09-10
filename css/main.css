@@ -100,6 +100,24 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   margin-top: 10px;
 }*/
 
+.glyphicon {
+  font-size: 70px;
+}
 
+.future-message {
+  visibility: hidden;
+  z-index: 13;
+}
 
+.future-background {
+  background: #7dd9ee;
+  position: absolute;
+  height:100%;
+  width: 100%;
+  z-index: 10;
+  visibility: hidden;
+}
 
+.chosen {
+    z-index: 11;
+}
