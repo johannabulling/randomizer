@@ -15,7 +15,7 @@
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal6">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal6">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,8 @@
             </div>
             <div class="modal-body">
               <img src="http://i32.photobucket.com/albums/d8/johannabulling/ScreenShot2014-09-10at093612_zpse2c2dc8c.png" alt="Nest" width="300" height="250" />
-              <p>MakerBot</p>
+              <p><b>For example MakerBot</b></p>
+              <p>3D printing is a process of making three dimensional solid objects from a digital file. Transform a small desk in your home or classroom into an exciting creativity center, reconnect with your imagination and creative power</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>
