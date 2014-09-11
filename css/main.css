@@ -26,19 +26,16 @@
     padding: 10px;
 }
 
-{
-    text-align: center
-}
-
-
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #fff;
   background-color: #fff;
 }
 
+.trend {
+  color: #ffffff;
+}
 
 .navbar-brand a{
      text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -74,6 +71,10 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 
 .trend {
   display: none;
+}
+
+.footer {
+ display: none; 
 }
 
 /*.popover {

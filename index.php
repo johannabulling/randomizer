@@ -137,7 +137,11 @@
 
       <br/>
       <footer>
-        <p>&copy; Company 2014</p>
+        <div class="row">
+          <div class="footer">
+            <p>Hyper Island Student Project 2014</p>
+          </div>
+        </div>
       </footer>
     </center>
   </div> <!-- /container -->        
@@ -207,121 +211,127 @@
         $("div.trend_1").delay(100).fadeIn("slow", function () {
         $("div.trend_1").add();
         });
-    }, 50);
+    }, 0);
 
      setTimeout(function(){
-        $("div.trend_2").delay(200).fadeIn("slow", function () {
+        $("div.trend_2").delay(100).fadeIn("slow", function () {
         $("div.trend_2").add();
         });
-    }, 100);
+    }, 30);
 
      setTimeout(function(){
-        $("div.trend_3").delay(200).fadeIn("slow", function () {
+        $("div.trend_3").delay(100).fadeIn("slow", function () {
         $("div.trend_3").add();
+        });
+    }, 60);
+
+     setTimeout(function(){
+        $("div.trend_4").delay(100).fadeIn("slow", function () {
+        $("div.trend_4").add();
+        });
+    }, 90);
+
+     setTimeout(function(){
+        $("div.trend_5").delay(100).fadeIn("slow", function () {
+        $("div.trend_5").add();
+        });
+    }, 120);
+
+     setTimeout(function(){
+        $("div.trend_6").delay(100).fadeIn("slow", function () {
+        $("div.trend_6").add();
         });
     }, 150);
 
      setTimeout(function(){
-        $("div.trend_4").delay(200).fadeIn("slow", function () {
-        $("div.trend_4").add();
-        });
-    }, 200);
-
-     setTimeout(function(){
-        $("div.trend_5").delay(200).fadeIn("slow", function () {
-        $("div.trend_5").add();
-        });
-    }, 250);
-
-     setTimeout(function(){
-        $("div.trend_6").delay(200).fadeIn("slow", function () {
-        $("div.trend_6").add();
-        });
-    }, 300);
-
-     setTimeout(function(){
-        $("div.trend_7").delay(200).fadeIn("slow", function () {
+        $("div.trend_7").delay(100).fadeIn("slow", function () {
         $("div.trend_7").add();
         });
-    }, 350);
+    }, 180);
 
      setTimeout(function(){
-        $("div.trend_8").delay(200).fadeIn("slow", function () {
+        $("div.trend_8").delay(100).fadeIn("slow", function () {
         $("div.trend_8").add();
         });
-    }, 400);
+    }, 210);
 
      setTimeout(function(){
-        $("div.trend_9").delay(200).fadeIn("slow", function () {
+        $("div.trend_9").delay(100).fadeIn("slow", function () {
         $("div.trend_9").add();
+        });
+    }, 240);
+
+     setTimeout(function(){
+        $("div.trend_10").delay(100).fadeIn("slow", function () {
+        $("div.trend_10").add();
+        });
+    }, 280);
+
+     setTimeout(function(){
+        $("div.trend_11").delay(100).fadeIn("slow", function () {
+        $("div.trend_11").add();
+        });
+    }, 310);
+
+     setTimeout(function(){
+        $("div.trend_12").delay(100).fadeIn("slow", function () {
+        $("div.trend_12").add();
+        });
+    }, 340);
+
+     setTimeout(function(){
+        $("div.trend_13").delay(100).fadeIn("slow", function () {
+        $("div.trend_13").add();
+        });
+    }, 370);
+
+     setTimeout(function(){
+        $("div.trend_14").delay(100).fadeIn("slow", function () {
+        $("div.trend_14").add();
+        });
+    }, 420);
+
+     setTimeout(function(){
+        $("div.trend_15").delay(100).fadeIn("slow", function () {
+        $("div.trend_15").add();
         });
     }, 450);
 
      setTimeout(function(){
-        $("div.trend_10").delay(200).fadeIn("slow", function () {
-        $("div.trend_10").add();
+        $("div.trend_16").delay(100).fadeIn("slow", function () {
+        $("div.trend_16").add();
         });
-    }, 500);
+    }, 480);
 
      setTimeout(function(){
-        $("div.trend_11").delay(200).fadeIn("slow", function () {
-        $("div.trend_11").add();
+        $("div.trend_17").delay(100).fadeIn("slow", function () {
+        $("div.trend_17").add();
         });
-    }, 550);
+    }, 510);
 
      setTimeout(function(){
-        $("div.trend_12").delay(200).fadeIn("slow", function () {
-        $("div.trend_12").add();
+        $("div.trend_18").delay(100).fadeIn("slow", function () {
+        $("div.trend_18").add();
+        });
+    }, 540);
+
+     setTimeout(function(){
+        $("div.trend_19").delay(100).fadeIn("slow", function () {
+        $("div.trend_19").add();
+        });
+    }, 570);
+
+     setTimeout(function(){
+        $("div.trend_20").delay(100).fadeIn("slow", function () {
+        $("div.trend_20").add();
         });
     }, 600);
 
      setTimeout(function(){
-        $("div.trend_13").delay(200).fadeIn("slow", function () {
-        $("div.trend_13").add();
+        $("div.footer").delay(100).fadeIn("slow", function () {
+        $("div.footer").add();
         });
-    }, 650);
-
-     setTimeout(function(){
-        $("div.trend_14").delay(200).fadeIn("slow", function () {
-        $("div.trend_14").add();
-        });
-    }, 700);
-
-     setTimeout(function(){
-        $("div.trend_15").delay(200).fadeIn("slow", function () {
-        $("div.trend_15").add();
-        });
-    }, 750);
-
-     setTimeout(function(){
-        $("div.trend_16").delay(200).fadeIn("slow", function () {
-        $("div.trend_16").add();
-        });
-    }, 800);
-
-     setTimeout(function(){
-        $("div.trend_17").delay(200).fadeIn("slow", function () {
-        $("div.trend_17").add();
-        });
-    }, 850);
-
-     setTimeout(function(){
-        $("div.trend_18").delay(200).fadeIn("slow", function () {
-        $("div.trend_18").add();
-        });
-    }, 900);
-
-     setTimeout(function(){
-        $("div.trend_19").delay(200).fadeIn("slow", function () {
-        $("div.trend_19").add();
-        });
-    }, 950);
-
-     setTimeout(function(){
-        $("div.trend_20").delay(200).fadeIn("slow", function () {
-        $("div.trend_20").add();
-        });
-    }, 1000);
+    }, 630);
   };
 
   $(document).ready(function(){
