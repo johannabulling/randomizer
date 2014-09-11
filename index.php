@@ -56,13 +56,13 @@
       <div class="row">
         <div class="col-xs-12 chosen visible-sm visible-md visible-lg">
           <button type="button" id="shuffle" class="btn btn-primary btn-lg">START RANDOMIZER</button>
-          <input type="text" size="3" value="17" style="visibility: hidden;" />  
+          <input type="text" size="3" value="27" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg">DISPLAY ALL</button>
         </div>
 
         <div class="col-xs-12 chosen visible-xs">
           <button type="button" id="shuffle" class="btn btn-primary btn-lg btn-block">START RANDOMIZER</button>
-          <input type="text" size="3" value="17" style="visibility: hidden;" />  
+          <input type="text" size="3" value="27" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg btn-block">DISPLAY ALL</button>
         </div>
 
@@ -221,7 +221,7 @@
             var $all = $("div.trend").hide();
             $('.trend').addClass('col-xs-12 col-md-3 col-sm-6').removeClass('col-xs-12 col-md-4');
             $('#future-background').css('visibility','hidden').fadeIn();
-            startfadein()
+            startfadein();
         });
     });
   </script>
