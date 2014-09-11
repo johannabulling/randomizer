@@ -55,13 +55,13 @@
       <br/>
       <div class="row">
         <div class="col-xs-12 chosen visible-sm visible-md visible-lg">
-          <button type="button" id="shuffle" class="btn btn-primary btn-lg">START RANDOMIZER</button>
+          <button type="button" id="shuffle" class="btn btn-primary btn-lg">START TRENDYFIZER</button>
           <input type="text" size="3" value="27" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg">DISPLAY ALL</button>
         </div>
 
         <div class="col-xs-12 chosen visible-xs">
-          <button type="button" id="shuffle" class="btn btn-primary btn-lg btn-block">START RANDOMIZER</button>
+          <button type="button" id="shuffle" class="btn btn-primary btn-lg btn-block">START TRENDYFIZER</button>
           <input type="text" size="3" value="27" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg btn-block">DISPLAY ALL</button>
         </div>
@@ -170,6 +170,7 @@
         <div class="row">
           <div class="col-xs-12 footer">
             <p>Hyper Island Student Project 2014</p>
+            <a href="screensaver.php">Screensaver</a>
           </div>
         </div>
       </footer>

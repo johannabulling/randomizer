@@ -123,6 +123,13 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   visibility: hidden;
 }
 
+.future-background-2 {
+  background: #7dd9ee;
+  position: absolute;
+  height:100%;
+  width: 100%;
+}
+
 .chosen {
     z-index: 11;
 }
@@ -149,4 +156,10 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 
 .modal-body p {
   margin-top:10px;
+}
+
+.image-screensaver {
+  height: 200px;
+  width: 200px;
+
 }
