@@ -1,12 +1,22 @@
       <!-- SQUARE 4-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_4">
         <div class="padding-test well">
-          <h2>Smart heating management</h2>
-          <span class="glyphicon glyphicon-fire"></span>
-          <p>Meters and sensors that measures and works as an turn off/on button for your smart home</p>
+          
+          <div class="headline">
+             <h2>Smart heating management</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-fire"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal4">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Meters and sensors that measures and works as an turn off/on button for your smart home</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal4">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

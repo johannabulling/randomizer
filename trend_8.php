@@ -1,12 +1,22 @@
       <!-- SQUARE 8-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_8">
-        <div class="padding-test well">
-          <h2>Internet of Things</h2>
-          <span class="glyphicon glyphicon-search"></span>
-          <p>Objects that connect themselves to the internet - from cars to heart monitors to stoplights . Everyday objects have network connectivity, allowing them to send and receive data.</p>
+         <div class="padding-test well">
+          
+          <div class="headline">
+             <h2>Internet of Things</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-search"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal8">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Objects that connect themselves to the internet - from cars to heart monitors to stoplights</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal8">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

@@ -1,12 +1,22 @@
       <!-- SQUARE 9-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_9">
         <div class="padding-test well">
-          <h2>Wearables</h2>
-          <span class="glyphicon glyphicon-thumbs-up"></span>
-          <p>Wearable device that monitor your health.</p>
+          
+          <div class="headline">
+             <h2>Wearables</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-thumbs-up"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal9">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Wearable device that monitor your health.</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal9">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

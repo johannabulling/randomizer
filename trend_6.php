@@ -1,12 +1,22 @@
       <!-- SQUARE 6-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_6">
         <div class="padding-test well">
-          <h2>3D printing</h2>
-          <span class="glyphicon glyphicon-fire"></span>
-          <p>Print your products or prototypes. 3D printing is a process of making three dimensional solid objects from a digital file.</p>
+          
+          <div class="headline">
+             <h2>3D printing</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-thumbs-up"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal6">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Print your products or prototypes.</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal6">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

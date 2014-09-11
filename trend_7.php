@@ -1,12 +1,22 @@
       <!-- SQUARE 7-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_7">
         <div class="padding-test well">
-          <h2>Disconnecting from the digital world</h2>
-          <span class="glyphicon glyphicon-fire"></span>
-          <p>Bring mindfulness to your world. Search for meaning and depth away from the keyboard.</p>
+          
+          <div class="headline">
+             <h2>Disconnecting</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-thumbs-up"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal7">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Bring mindfulness to your world. Search for meaning and depth away from the keyboard.</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal7">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

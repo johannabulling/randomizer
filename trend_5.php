@@ -1,12 +1,22 @@
       <!-- SQUARE 5-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_5">
         <div class="padding-test well">
-          <h2>Universal remote control</h2>
-          <span class="glyphicon glyphicon-fire"></span>
-          <p>Use your devices as a remote to your TV, stereo, computer etc.</p>
+          
+          <div class="headline">
+             <h2>Universal remote control</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-fire"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal5">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Use your devices as a remote to your TV, stereo, computer etc.</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal5">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 
