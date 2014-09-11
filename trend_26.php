@@ -7,7 +7,7 @@
           </div>
           
           <div class="icon-div" >
-            <span class="glyphicon glyphicon-fire"></span>
+            <span class="glyphicon glyphicon-briefcase"></span>
           </div>
 
           <div class="subheadline">

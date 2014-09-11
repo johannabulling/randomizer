@@ -7,7 +7,7 @@
           </div>
           
           <div class="icon-div" >
-            <span class="glyphicon glyphicon-search"></span>
+            <span class="glyphicon glyphicon-phone"></span>
           </div>
 
           <div class="subheadline">
