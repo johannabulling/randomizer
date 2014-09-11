@@ -3,7 +3,7 @@
         <div class="padding-test well">
           
           <div class="headline">
-             <h2>Apps replacing TV</h2>
+             <h2>New Interfaces</h2>
           </div>
           
           <div class="icon-div" >
@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Apps replacing traditional tv.</p>
+            <p>Ways of interacting with digital devices.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal20">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal20">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -26,11 +26,12 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-              <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
+              <h4 class="modal-title" id="myModalLabel">New Interfaces</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <img src="http://go.bloomberg.com/tech-deals/content/uploads/sites/2/2013/01/blog_leapmotion.jpg" alt="PAY" width="300" height="250" />
+                  <p><b>Example Fin & Leap Motion.</b></p>
+                  <p>With a wave of a hand, you'll use your Mac or PC in a whole new way for games, design, and more. </p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>
