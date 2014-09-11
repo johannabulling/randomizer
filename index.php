@@ -33,7 +33,7 @@
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-search"></span> randomizer.</a>glyphicon glyphicon-certificate
+          <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-certificate small-glyphicon"></span> Trendyfizer</a>
         </div>
       </div><!-- /.container-fluid -->
     </nav>

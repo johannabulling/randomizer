@@ -104,6 +104,10 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   font-size: 70px;
 }
 
+.small-glyphicon {
+  font-size:15px;
+}
+
 .future-message {
   visibility: hidden;
   z-index: 13;
