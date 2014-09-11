@@ -7,7 +7,7 @@
           </div>
           
           <div class="icon-div" >
-            <span class="glyphicon glyphicon-thumbs-up"></span>
+            <span class="glyphicon glyphicon-print"></span>
           </div>
 
           <div class="subheadline">
@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">3D printing</h4>
             </div>
             <div class="modal-body">
-              <img src="http://i32.photobucket.com/albums/d8/johannabulling/ScreenShot2014-09-10at093612_zpse2c2dc8c.png" alt="Nest" width="300" height="250" />
+              <img src="http://www.forumforthefuture.org/sites/default/files/images/GreenFutures/GF83/Page%206_credit%20David%20Neff.jpg" alt="Nest" width="300" height="250" />
               <p>MakerBot</p>
             </div>
             <div class="modal-footer">

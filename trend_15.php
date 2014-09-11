@@ -7,7 +7,7 @@
           </div>
           
           <div class="icon-div" >
-            <span class="glyphicon glyphicon-thumbs-up"></span>
+            <span class="glyphicon glyphicon-resize-small"></span>
           </div>
 
           <div class="subheadline">

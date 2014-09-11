@@ -7,7 +7,7 @@
           </div>
           
           <div class="icon-div" >
-            <span class="glyphicon glyphicon-phone"></span>
+            <span class="glyphicon glyphicon-globe"></span>
           </div>
 
           <div class="subheadline">
