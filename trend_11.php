@@ -3,7 +3,7 @@
         <div class="padding-test well">
           
           <div class="headline">
-             <h2>Apps replacing TV</h2>
+             <h2>NFC</h2>
           </div>
           
           <div class="icon-div" >
@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Apps replacing traditional tv.</p>
+            <p>Near field communication.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal11">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal11">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -29,8 +29,9 @@
               <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <img src="http://2.bp.blogspot.com/-0jX-m4v0zOs/USOhqdglH6I/AAAAAAAABRA/iWFE2AS3x24/s1600/NFC+Tag+Sticker+Design.jpg" alt="PAY" width="300" height="250" />
+                   <p><b>Example Touchless payments.</b></p>
+                  <p>Near-field (or nearfield) communication (NFC) is a set of standards for smartphones and other mobile devices to establish radio communication with each other by touching them together or bringing them into close proximity, usually no more than a few centimeters.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

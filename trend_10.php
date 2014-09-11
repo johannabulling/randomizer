@@ -15,7 +15,7 @@
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal10">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal10">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,8 @@
             </div>
             <div class="modal-body">
                   <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <p><b>Example Netflix, Apple TV etc.</b></p>
+                  <p>Apps that gives you on demand TV, Whenever your like it. </p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

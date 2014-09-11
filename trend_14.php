@@ -3,7 +3,7 @@
            <div class="padding-test well">
           
           <div class="headline">
-             <h2>Apps replacing TV</h2>
+             <h2>Wireless Charging</h2>
           </div>
           
           <div class="icon-div" >
@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Apps replacing traditional tv.</p>
+            <p>Charge your device without wires.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal14">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal14">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -26,11 +26,12 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-              <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
+              <h4 class="modal-title" id="myModalLabel">Wireless Charging</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <img src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2014/01/07/Powermat_at_Starbucks.jpg" alt="PAY" width="300" height="250" />
+                   <p><b>Example Starbucks introducing wireless charging</b></p>
+                  <p>Inductive charging (also known as "wireless charging") uses an electromagnetic field to transfer energy between two objects. This is usually done with a charging station. Energy is sent through an inductive coupling to an electrical device, which can then use that energy to charge batteries or run the device.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

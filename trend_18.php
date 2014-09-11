@@ -3,7 +3,7 @@
         <div class="padding-test well">
           
           <div class="headline">
-             <h2>Apps replacing TV</h2>
+             <h2>Machine 2 Machine</h2>
           </div>
           
           <div class="icon-div" >
@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Apps replacing traditional tv.</p>
+            <p>Making all your devices connected and work together.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal18">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal18">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -26,11 +26,12 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-              <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
+              <h4 class="modal-title" id="myModalLabel">M2M - Machine 2 Machine</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <img src="http://www.thefwa.com/library/SMG024_Converge-BBSV.jpg" alt="PAY" width="300" height="250" />
+                   <p><b>Example Volvo-on-call.</b></p>
+                  <p>Machine to Machine (M2M) refers to technologies that allow both wireless and wired systems to communicate with other devices of the same type.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

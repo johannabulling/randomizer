@@ -3,7 +3,7 @@
         <div class="padding-test well">
           
           <div class="headline">
-             <h2>Apps replacing TV</h2>
+             <h2>The foldable tablet</h2>
           </div>
           
           <div class="icon-div" >
@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Apps replacing traditional tv.</p>
+            <p>Ultra thin material that can make truly bendable devices possible.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal15">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal15">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -26,11 +26,12 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-              <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
+              <h4 class="modal-title" id="myModalLabel">The foldable tablet</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <img src="http://static.ibnlive.in.com/pix/slideshow/08-2011/a3-tablet-book/01-a3-tablet-book-180811.jpg" alt="PAY" width="300" height="250" />
+                   <p><b>Example Samsungs flexible TV</b></p>
+                  <p>Graphene is a thin material that makes screens bendable. This could be used for various devices to make foldable screens.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

@@ -10,14 +10,25 @@
 
 
 .well {
-  min-height: 300px;
+  max-height: 700px;
+  max-width: 270px;
   padding: 19px;
   margin-bottom: 20px;
 /*  background-color: #ffffff;*/
-  border: 1px solid #f5f5f5;
+  border: 1px solid #ff8e4e;
   border-radius: 4px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+
+}
+
+img {
+
+  width: 250px;
+  max-height: 250px;
+  padding: 10px;
+  margin: 0 auto;
+
 }
 
 .padding-test {
@@ -26,16 +37,19 @@
     padding: 10px;
 }
 
+{
+    text-align: center
+}
+
+
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  background-color: #fff;
+  color: #fff;
+  background-color: #ff8e4e;
 }
 
-.trend {
-  color: #ffffff;
-}
 
 .navbar-brand a{
      text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -47,7 +61,7 @@ body {
 
 .btn-default
 {
-padding: 5px 10px 7px !important;
+/*padding: 10px !important;
 font-size: 18px !important;
 background-color: #57d6c7;
 font-weight: bold;
@@ -61,20 +75,29 @@ cursor: pointer;
 box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+min-width:200px;*/
+
 }
 
-/*.btn-in-box {
-	position: absolute;
-	bottom: 34px;
-	left: 58px;
-}*/
+.wildcard_btn {
 
-.trend {
-  display: none;
-}
+padding: 10px !important;
+font-size: 18px !important;
+background-color: #ef5b99;
+font-weight: bold;
+text-shadow: 1px 1px #ef5b99;
+color: #ffffff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border: 1px solid #57D6C7;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+min-width:200px;
+margin-left: 28%;
 
-.footer {
- display: none; 
 }
 
 /*.popover {
@@ -101,48 +124,9 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   margin-top: 10px;
 }*/
 
-.glyphicon {
-  font-size: 70px;
-}
-
-.small-glyphicon {
-  font-size:15px;
-}
-
-.future-message {
-  visibility: hidden;
-  z-index: 13;
-}
-
-.future-background {
-  background: #7dd9ee;
-  position: absolute;
-  height:100%;
-  width: 100%;
-  z-index: 10;
-  visibility: hidden;
-}
-
-.chosen {
-    z-index: 11;
+h2 {
+width:35%;
+margin:0 auto;
 }
 
 
-/* SQUARES */
-
-.headline {
-  height: 100px;
-}
-
-.icon-div {
-  height: 80px;
-}
-
-.subheadline {
-  height: 53px;
-  margin: 10px;
-}
-
-.tell-me-more {
-  height: 50px;
-}
