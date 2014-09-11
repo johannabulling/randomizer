@@ -54,6 +54,9 @@
         Go. Create your future with fuffr! 
       </div>
 
+      <!-- Trend 0 -->
+      <?php include 'trend_0.php';  ?>
+
       <!-- Trend 1 -->
       <?php include 'trend_1.php';  ?>
 
