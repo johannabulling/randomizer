@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Objects that connect themselves to the internet - from cars to heart monitors to stoplights</p>
+            <p>Objects that connect themselves to the internet.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal8">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal8">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,8 @@
             </div>
             <div class="modal-body">
               <img src="http://www.devoxx4kids.org/wp-content/uploads/2014/05/IoT.png" alt="Fuel" width="300" height="250" />
-              <p>Smart things</p>
+              <p><b>For example GlowCaps</p>
+              <p>GlowCaps use light, sound, and even text notifications to remind you when to take your medication. Everyday objects have network connectivity, allowing them to send and receive data.
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

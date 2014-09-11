@@ -30,7 +30,12 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
+<<<<<<< HEAD
   background-color: #fff;
+=======
+  color: #fff;
+  background-color: ;
+>>>>>>> 60faa9943c3af228838a040438dea573c9f843fb
 }
 
 .trend {
@@ -145,8 +150,4 @@ box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 
 .tell-me-more {
   height: 50px;
-}
-
-.modal-body p {
-  margin-top:10px;
 }
