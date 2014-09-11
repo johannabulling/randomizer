@@ -3,7 +3,7 @@
         <div class="padding-test well">
           
           <div class="headline">
-             <h2>Apps replacing TV</h2>
+             <h2>Virtual Reality</h2>
           </div>
           
           <div class="icon-div" >
@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Apps replacing traditional tv.</p>
+            <p>Virtual Reality created through head-mounted devices.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal19">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal19">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -26,11 +26,12 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-              <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
+              <h4 class="modal-title" id="myModalLabel">Virtual Reality</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
-                  <p>Apple TV</p>
+                  <img src="https://dbvc4uanumi2d.cloudfront.net/cdn/3.8.27/wp-content/themes/oculus/img/order/dk2-product.jpg" alt="PAY" width="300" height="250" />
+                   <p><b>Example Oculus Rift & Google glasses.</b></p>
+                  <p>Virtual reality (VR), sometimes referred to as immersive multimedia, is a computer-simulated environment that can simulate physical presence in places in the real world or imagined worlds. Virtual reality can recreate sensory experiences, including virtual taste, sight, smell, sound, touch, etc.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>
