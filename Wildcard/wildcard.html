@@ -1,0 +1,80 @@
+<html>
+
+<title>Random</title>
+
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="myrandom.css">
+
+<script language="JavaScript">
+
+
+function pickimg(){
+var imagenumber = 22 ;
+var randomnumber = Math.random() ;
+var rand1 = Math.round( (imagenumber-1) * randomnumber) + 1;
+images = new Array
+
+images[1] = "img/img1.png"
+images[2] = "img/img2.png"
+images[3] = "img/img3.png"
+images[4] = "img/img4.png"
+images[5] = "img/img5.png"
+images[6] = "img/img6.png"	
+images[7] = "img/img7.png"
+images[8] = "img/img8.png"
+images[9] = "img/img9.png"
+images[10] = "img/img10.png"
+images[11] = "img/img11.jpg"
+images[12] = "img/img12.jpg"
+images[13] = "img/img13.jpg"
+images[14] = "img/img14.jpg"
+images[15] = "img/img15.jpg"
+images[16] = "img/img16.jpg"
+images[17] = "img/img17.jpg"
+images[18] = "img/img18.jpg"
+images[19] = "img/img19.jpg"
+images[20] = "img/img20.jpg"
+images[21] = "img/img21.jpg"
+images[22] = "img/img22.jpg"
+
+var image = images[rand1]
+document.randimg.src = image
+}
+
+
+</script>
+
+
+</head>
+
+
+<body onLoad="pickimg()">
+
+</p>
+        
+
+
+
+
+
+      <div class="col-xs-12 col-md-3 col-sm-6 trend">
+        <div class="padding-test well">
+          <h2>Wildcard</h2>
+          <span class="glyphicon glyphicon-thumbs-up"></span>
+          <a href="" onClick="pickimg();return false;"><IMG SRC="YOUR IMAGE" name="randimg" border=0></a>
+
+          <!-- Information-button -->
+          <p><a class="wildcard_btn" href="#" role="button" data-toggle="modal" data-target="#myModal" onClick="pickimg();return false;">Go WILD! &raquo;</a></p>
+        </div>
+      </div>
+
+</body>
+
+
+
+
+
+
+</html>
