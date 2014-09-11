@@ -1,12 +1,22 @@
       <!-- SQUARE 1-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_1">
         <div class="padding-test well">
-          <h2>Self tracking</br></br></h2>
-          <span class="glyphicon glyphicon-search"></span>
+        
+          <div class="headline">
+            <h2>Disconnecting from the world.</h2>
+          </div>
           
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-search"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            Wearables that help tracking oneself.
+          </div>
+
+          <div class="tell-me-more">
+          <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

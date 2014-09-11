@@ -1,12 +1,22 @@
       <!-- SQUARE 10-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_17">
         <div class="padding-test well">
-          <h2>Apps replacing TV</h2>
-          <span class="glyphicon glyphicon-credit-card"></span>
-          <p>Apps replacing traditional tv.</p>
+          
+          <div class="headline">
+             <h2>Apps replacing TV</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-thumbs-up"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal17">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Apps replacing traditional tv.</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal17">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 

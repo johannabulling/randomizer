@@ -1,12 +1,22 @@
       <!-- SQUARE 3-->
       <div class="col-xs-12 col-md-3 col-sm-6 trend trend_3">
         <div class="padding-test well">
-          <h2>Mobile payments</h2>
-          <span class="glyphicon glyphicon-credit-card"></span>
-          <p>Payment services operated under financial regulation and performed from or via a mobile device.</p>
+          
+          <div class="headline">
+             <h2>Mobile payments</h2>
+          </div>
+          
+          <div class="icon-div" >
+            <span class="glyphicon glyphicon-credit-card"></span>
+          </div>
 
-          <!-- Information-button -->
-          <p><a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal3">Give me more! &raquo;</a></p>
+          <div class="subheadline">
+            <p>Payment services operated under financial regulation and performed from or via a mobile device.</p>
+          </div>
+
+          <div class="tell-me-more">
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal3">Give me more! &raquo;</a>
+          </div>
         </div>
       </div>
 
