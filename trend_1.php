@@ -3,7 +3,7 @@
         <div class="padding-test well">
         
           <div class="headline">
-            <h2>Disconnecting from the world.</h2>
+            <h2>Self tracking</h2>
           </div>
           
           <div class="icon-div" >
@@ -15,7 +15,7 @@
           </div>
 
           <div class="tell-me-more">
-          <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal">Give me more! &raquo;</a>
+          <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal">Tell me more &raquo;</a>
           </div>
         </div>
       </div>
@@ -31,8 +31,8 @@
             
             <div class="modal-body">
               <img src="http://blog.envirofone.com/wordpress/wp-content/uploads/2013/01/nike-fuel-band.jpg" class="img-responsive" alt="Fuel" width="300" height="250" />
-              <p>Example Nike Fuel Band & Fitbit</p>
-              <p>Wearables that help tracking oneself.</p>
+              <p><b>Example Nike Fuel Band & Fitbit</b></p>
+              <p>The information from the wristband is integrated into the Nike+ online community and phone application, allowing wearers to set their own fitness goals, monitor their progression, and compare themselves to others part of the community. Nike+ relies on the gamification of fitness activities turning all tracked movement into NikeFuel points, which can unlock achievements, can be shared with friends, or can be used to engage others in competition.</p>
             </div>
             
             <div class="modal-footer">

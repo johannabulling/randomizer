@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Bring mindfulness to your world. Search for meaning and depth away from the keyboard.</p>
+            <p>Search for meaning and depth away from the keyboard.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal7">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal7">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -29,8 +29,9 @@
               <h4 class="modal-title" id="myModalLabel">Disconnecting from the digital world</h4>
             </div>
             <div class="modal-body">
-              <img src="http://i32.photobucket.com/albums/d8/johannabulling/ScreenShot2014-09-10at094319_zpsf47e9b12.png" alt="Nest" width="300" height="250" />
-              <p>Mindapps</p>
+              <img src="http://mindfulmood.podbean.com/mf/web/2ci5ft/photo-water-drop3.jpg" alt="Nest" width="300" height="250" />
+              <p><b>For example Mindapps</b></p>
+              <p>Mindfulness is "the intentional, accepting and non-judgmental focus of one's attention on the emotions, thoughts and sensations occurring in the present moment.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

@@ -15,7 +15,7 @@
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal9">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal9">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,8 @@
             </div>
             <div class="modal-body">
               <img src="http://cdn.shopify.com/s/files/1/0173/5376/products/Tinke_Fitness_Monitor_-_Lightning_0002_Layer_3_1024x1024.jpg?v=1382528570" alt="consumtion" width="300" height="250" />
-              <p>Tinké</p>
+              <p><b>For example Tinké</b></p>
+              <p>Tinké is a fitness & wellness tracker that measures your heart rate, respiratory rate, blood oxygen saturation and heart rate Variability. All it takes is a touch of your finger.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

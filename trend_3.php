@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Payment services operated under financial regulation and performed from or via a mobile device.</p>
+            <p>Make payments from or via a mobile device.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal3">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal3">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -29,8 +29,8 @@
               <h4 class="modal-title" id="myModalLabel">Mobile payment</h4>
             </div>
             <div class="modal-body">
-              <img src="http://blog.gemalto.com/wp-content/uploads/2013/11/Mobile-Payments-for-Black-Friday.png" alt="PAY" width="300" height="250" />
-              <p>Fitbit & Coin</p>
+              <img src="http://img.zdnet.com.cn/3/271/liNcc4wWq7m1M.png" alt="PAY" width="300" height="250" />
+              <p>Payment services operated under financial regulation and performed from or via a mobile device. Instead of paying with cash, cheque, or credit cards, a consumer can use a mobile phone to pay for a wide range of services, online and in the real world.</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>

@@ -11,11 +11,11 @@
           </div>
 
           <div class="subheadline">
-            <p>Use your devices as a remote to your TV, stereo, computer etc.</p>
+            <p>Use your devices as a remote for your TV etc.</p>
           </div>
 
           <div class="tell-me-more">
-            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal5">Give me more! &raquo;</a>
+            <a class="btn btn-default btn-in-box" href="#" role="button" data-toggle="modal" data-target="#myModal5">Tell me more! &raquo;</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,8 @@
             </div>
             <div class="modal-body">
               <img src="http://www.geek.com/wp-content/uploads/2012/01/dijit-remote-1024x800.png" alt="Nest" width="300" height="250" />
-              <p>Dijit</p>
+              <p><b>For example Dijit</b></p>
+              <p>With Dijit, your tablet or smartphone is a next generation TV Program Guide and a Universal Remote Control. Use our app to turn on your TV, get personalized recommendations and find what to watch, tune in, adjust volume, control your DVR, invite your friends to tune in with you, and much more!</p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">I got it!</button>
