@@ -33,7 +33,7 @@
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <a class="navbar-brand" href="#">randomizer.</a>
+          <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-search"></span> randomizer.</a>glyphicon glyphicon-certificate
         </div>
       </div><!-- /.container-fluid -->
     </nav>
@@ -41,11 +41,18 @@
     <div class="container">
       <br/>
       <div class="row">
-        <div class="col-xs-12 chosen">
+        <div class="col-xs-12 chosen visible-sm visible-md visible-lg">
           <button type="button" id="shuffle" class="btn btn-primary btn-lg">START RANDOMIZER</button>
           <input type="text" size="3" value="17" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg">DISPLAY ALL</button>
         </div>
+
+        <div class="col-xs-12 chosen visible-xs">
+          <button type="button" id="shuffle" class="btn btn-primary btn-lg btn-block">START RANDOMIZER</button>
+          <input type="text" size="3" value="17" style="visibility: hidden;" />  
+          <button type="button" id="show_all" class="btn btn-success btn-lg btn-block">DISPLAY ALL</button>
+        </div>
+
       </div>
 
       <br><br>
