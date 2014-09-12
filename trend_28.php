@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">More price comparing in shops</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://www.tyre-shopper.co.uk/system/images/BAhbBlsHOgZmSSI4MjAxMy8wMy8wOC8xMS8wMi81Ny8zMTkvbG93ZXN0X3ByaWNlX2d1YXJhbnRlZWQucG5nBjoGRVQ/lowest-price-guaranteed.png" alt="PAY" width="300" height="250" />
+              <img class="img-responsive" src="http://www.tyre-shopper.co.uk/system/images/BAhbBlsHOgZmSSI4MjAxMy8wMy8wOC8xMS8wMi81Ny8zMTkvbG93ZXN0X3ByaWNlX2d1YXJhbnRlZWQucG5nBjoGRVQ/lowest-price-guaranteed.png" alt="PAY" />
               <p>Online shoppers also compare prices and quality before they buy their product. This of course happens in stores over the globe and online stores. People with a smartphone that has access to internet do this during the shopping trip or before.</p>
             </div>
             <div class="modal-footer">

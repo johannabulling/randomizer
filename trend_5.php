@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Universal remote control</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://www.geek.com/wp-content/uploads/2012/01/dijit-remote-1024x800.png" alt="Nest" width="300" height="250" />
+              <img class="img-responsive" src="http://www.geek.com/wp-content/uploads/2012/01/dijit-remote-1024x800.png" alt="Nest" />
               <p><b>For example Dijit</b></p>
               <p>With Dijit, your tablet or smartphone is a next generation TV Program Guide and a Universal Remote Control. Use our app to turn on your TV, get personalized recommendations and find what to watch, tune in, adjust volume, control your DVR, invite your friends to tune in with you, and much more!</p>
             </div>

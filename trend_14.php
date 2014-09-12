@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Wireless Charging</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2014/01/07/Powermat_at_Starbucks.jpg" alt="PAY" width="300" height="250" />
+                  <img class="img-responsive" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2014/01/07/Powermat_at_Starbucks.jpg" alt="PAY" />
                    <p><b>Example Starbucks introducing wireless charging</b></p>
                   <p>Inductive charging (also known as "wireless charging") uses an electromagnetic field to transfer energy between two objects. This is usually done with a charging station. Energy is sent through an inductive coupling to an electrical device, which can then use that energy to charge batteries or run the device.</p>
             </div>

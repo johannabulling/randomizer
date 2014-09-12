@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Joy of missing out (JOMO)</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://mybodyrestoration.com/wp-content/uploads/2014/01/JOMO2.png" alt="Nest" width="300" height="250" />
+              <img class="img-responsive" src="http://mybodyrestoration.com/wp-content/uploads/2014/01/JOMO2.png" alt="Nest" />
               <p>People feel joy in not going to that amazing event because they feel like staying at home with a book, a good movie, socialize with their families, sleep, etc. Experiencing meaningful time.</p>
             </div>
             <div class="modal-footer">

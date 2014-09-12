@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Kids going mobile</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://blog.escanav.com/wp-content/uploads/2014/07/smartphone-kids.png" alt="consumtion" width="300" height="250" />
+              <img class="img-responsive" src="http://blog.escanav.com/wp-content/uploads/2014/07/smartphone-kids.png" alt="consumtion"/>
               <p>Kids are using these devices to play different games, watch movies etc. This opens up for mobile business such as kids games, online books for kids and educational programs.</p>
             </div>
             <div class="modal-footer">

@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">CarPlay</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://upload.wikimedia.org/wikipedia/commons/f/f1/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82_CarPlay_2014-03-12_20-29.jpg" alt="PAY" width="300" height="250" />
+                  <img class="img-responsive" src="http://upload.wikimedia.org/wikipedia/commons/f/f1/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82_CarPlay_2014-03-12_20-29.jpg" alt="PAY" />
                    <p><b>Example Google CarPlay</b></p>
                   <p>The aim of CarPlay is to provide direct access to iOS device functionality, control, and usage, directly via the manufacturers' native in-car control systems.</p>
             </div>

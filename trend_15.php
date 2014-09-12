@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">The foldable tablet</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://static.ibnlive.in.com/pix/slideshow/08-2011/a3-tablet-book/01-a3-tablet-book-180811.jpg" alt="PAY" width="300" height="250" />
+                  <img class="img-responsive" src="http://static.ibnlive.in.com/pix/slideshow/08-2011/a3-tablet-book/01-a3-tablet-book-180811.jpg" alt="PAY" />
                    <p><b>Example Samsungs flexible TV</b></p>
                   <p>Graphene is a thin material that makes screens bendable. This could be used for various devices to make foldable screens.</p>
             </div>

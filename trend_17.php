@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Biometrics for mobile</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://realizethelies.files.wordpress.com/2013/07/irisscanid.jpg" alt="PAY" width="300" height="250" />
+                  <img class="img-responsive" src="http://realizethelies.files.wordpress.com/2013/07/irisscanid.jpg" alt="PAY"/>
                    <p><b>Example Fingerprint reader.</b></p>
                   <p> Biometrics authentication is used in computer science as a form of identification and access control. Eg. Control your phone with your eyes or access your phone with your fingerprint.</p>
             </div>

@@ -30,7 +30,7 @@
             </div>
             
             <div class="modal-body">
-              <img src="http://blog.envirofone.com/wordpress/wp-content/uploads/2013/01/nike-fuel-band.jpg" class="img-responsive" alt="Fuel" width="300" height="250" />
+              <img class="img-responsive" src="http://blog.envirofone.com/wordpress/wp-content/uploads/2013/01/nike-fuel-band.jpg" alt="Fuel" />
               <p><b>Example Nike Fuel Band & Fitbit</b></p>
               <p>The information from the wristband is integrated into the Nike+ online community and phone application, allowing wearers to set their own fitness goals, monitor their progression, and compare themselves to others part of the community. Nike+ relies on the gamification of fitness activities turning all tracked movement into NikeFuel points, which can unlock achievements, can be shared with friends, or can be used to engage others in competition.</p>
             </div>

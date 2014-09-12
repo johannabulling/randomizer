@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Expanding the web</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://www.golime.co/Portals/125055/images/Connected_World.jpg" alt="PAY" width="250" height="200" />
+                  <img class="img-responsive" src="http://www.golime.co/Portals/125055/images/Connected_World.jpg" alt="PAY" />
                    <p><b>Example Drones sharing internetconnection to get the world connected</b></p>
                   <p>Getting people connected through drones over the whole world. Makes all people connected across the globe with drones and smarter packaged data.</p>
             </div>

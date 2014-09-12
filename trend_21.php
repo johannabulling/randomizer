@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Dating on-the-go</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1024px-Heart_coraz%C3%B3n.svg.png" alt="PAY" width="300" height="250" />
+                  <img class="img-responsive" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1024px-Heart_coraz%C3%B3n.svg.png" alt="PAY" />
                   <p>This behavior opens up for a new model of dating since most of us already have shared most of our information through social media our personality is basically open for anyone to read (almost anyone). </p>
             </div>
             <div class="modal-footer">

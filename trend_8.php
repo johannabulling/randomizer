@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Internet of Things</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://www.devoxx4kids.org/wp-content/uploads/2014/05/IoT.png" alt="Fuel" width="300" height="250" />
+              <img class="img-responsive" src="http://www.devoxx4kids.org/wp-content/uploads/2014/05/IoT.png" alt="Fuel" />
               <p><b>For example GlowCaps</b></p>
               <p>GlowCaps use light, sound, and even text notifications to remind you when to take your medication. Everyday objects have network connectivity, allowing them to send and receive data.
             </div>

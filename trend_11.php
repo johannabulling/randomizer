@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
             </div>
             <div class="modal-body">
-                  <img style="img-responsive" src="http://2.bp.blogspot.com/-0jX-m4v0zOs/USOhqdglH6I/AAAAAAAABRA/iWFE2AS3x24/s1600/NFC+Tag+Sticker+Design.jpg" alt="PAY" width="300" height="250" />
+                  <img class="img-responsive" src="http://2.bp.blogspot.com/-0jX-m4v0zOs/USOhqdglH6I/AAAAAAAABRA/iWFE2AS3x24/s1600/NFC+Tag+Sticker+Design.jpg" alt="PAY" />
                    <p><b>Example Touchless payments.</b></p>
                   <p>Near-field (or nearfield) communication (NFC) is a set of standards for smartphones and other mobile devices to establish radio communication with each other by touching them together or bringing them into close proximity, usually no more than a few centimeters.</p>
             </div>

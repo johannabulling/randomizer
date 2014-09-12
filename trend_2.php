@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Collaborative economy</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://www.torbenrick.eu/blog/wp-content/uploads/2013/08/Drill-Collaborative-Consumption.jpg" alt="consumtion" width="300" height="250" />
+              <img class="img-responsive" src="http://www.torbenrick.eu/blog/wp-content/uploads/2013/08/Drill-Collaborative-Consumption.jpg" alt="consumtion" />
               <p><b>For example Sunfleet</b></p>
               <p>The collaborative economy is a socio-economic system built around the sharing of human and physical resources. Together, entire communities and cities around the world are using network technologies to do more with less by renting, lending, swapping, bartering, gifting and sharing products on a scale never before possible. From Airbnb to Zipcar to Taskrabbit,  collaborative consumption is transforming business, consumerism and the way we live for a more fulfilling and sustainable quality of life.</p>
             </div>

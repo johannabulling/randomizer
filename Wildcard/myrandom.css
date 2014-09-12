@@ -129,4 +129,19 @@ width:35%;
 margin:0 auto;
 }
 
+.gameimage {
+  visibility: hidden;
+}
 
+.future-background-2 {
+  background: #7dd9ee;
+  position: absolute;
+  height:100%;
+  width: 100%;
+  visibility: visible;
+  z-index: 2000;
+}
+
+a {
+  text-decoration: none;
+}

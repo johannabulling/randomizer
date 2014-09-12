@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Smart Heating management</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://i32.photobucket.com/albums/d8/johannabulling/thermostat_face_2x_zps7879a60d.jpg" alt="Nest" width="300" height="250" />
+              <img class="img-responsive" src="http://i32.photobucket.com/albums/d8/johannabulling/thermostat_face_2x_zps7879a60d.jpg" alt="Nest" />
               <p><b>For example Nest</b></p>
               <p>Most people leave the house at one temperature and forget to change it. So Nest learning thermostat learns your schedule programs itself and can be controlled from your phone. Teach it well and the Nest Thermostat can lower your heating and cooling bills up to 20%.</p>
             </div>

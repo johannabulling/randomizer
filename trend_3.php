@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Mobile payment</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://img.zdnet.com.cn/3/271/liNcc4wWq7m1M.png" alt="PAY" width="300" height="250" />
+              <img class="img-responsive" src="http://img.zdnet.com.cn/3/271/liNcc4wWq7m1M.png" alt="PAY" />
               <p>Payment services operated under financial regulation and performed from or via a mobile device. Instead of paying with cash, cheque, or credit cards, a consumer can use a mobile phone to pay for a wide range of services, online and in the real world.</p>
             </div>
             <div class="modal-footer">

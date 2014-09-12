@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Fear of missing out (FOMO)</h4>
             </div>
             <div class="modal-body">
-              <img style="img-responsive" src="http://www.fuccha.in/wp-content/uploads/2014/01/socialmediablues-1024x613.jpg" alt="Nest" width="300" height="250" />
+              <img class="img-responsive" src="http://www.fuccha.in/wp-content/uploads/2014/01/socialmediablues-1024x613.jpg" alt="Nest"  />
               <p>A constant need for filling life with excitement/newness and showing it off on social media channels.People suffering from FOMO compare their status with the status of others and think that their life isn't as fulfilling as it could be/ as their friends life.</p>
             </div>
             <div class="modal-footer">
