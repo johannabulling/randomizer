@@ -54,25 +54,15 @@
     <div class="container">
       <br/>
       <div class="row">
-        <div class="col-xs-12 chosen visible-sm visible-md visible-lg">
+        <div class="col-xs-12 hidden-xs chosen">
           <button type="button" id="shuffle" class="btn btn-primary btn-lg">START TRENDYFIZER</button>
           <input type="text" size="3" value="27" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg">DISPLAY ALL</button>
         </div>
 
-        <div class="col-xs-12 chosen visible-xs">
-          <button type="button" id="shuffle" class="btn btn-primary btn-lg btn-block">START TRENDYFIZER</button>
-          <input type="text" size="3" value="27" style="visibility: hidden;" />  
-          <button type="button" id="show_all" class="btn btn-success btn-lg btn-block">DISPLAY ALL</button>
-        </div>
-
       </div>
 
       <br><br>
-
-      <div class="future-message" id="future-message">
-        Go. Create your future with fuffr! 
-      </div>
 
       <!-- Trend 1 -->
       <?php include 'trend_1.php';  ?>

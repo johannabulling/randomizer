@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">New Interfaces</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://go.bloomberg.com/tech-deals/content/uploads/sites/2/2013/01/blog_leapmotion.jpg" alt="PAY" width="300" height="250" />
+                  <img style="img-responsive" src="http://go.bloomberg.com/tech-deals/content/uploads/sites/2/2013/01/blog_leapmotion.jpg" alt="PAY" width="300" height="250" />
                   <p><b>Example Fin & Leap Motion.</b></p>
                   <p>With a wave of a hand, you'll use your Mac or PC in a whole new way for games, design, and more. </p>
             </div>

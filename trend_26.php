@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Bring your own device (BYOD)</h4>
             </div>
             <div class="modal-body">
-              <img src="http://www.securedgenetworks.com/Portals/80068/images/byod%20(1).jpg" alt="Nest" width="300" height="250" />
+              <img style="img-responsive" src="http://www.securedgenetworks.com/Portals/80068/images/byod%20(1).jpg" alt="Nest" width="300" height="250" />
               <p>Studies have shown that ”BYOD” actually increases productivity amongst the employees and of course brings cost reductions for the company.</p>
             </div>
             <div class="modal-footer">

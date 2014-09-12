@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Wearables</h4>
             </div>
             <div class="modal-body">
-              <img src="http://cdn.shopify.com/s/files/1/0173/5376/products/Tinke_Fitness_Monitor_-_Lightning_0002_Layer_3_1024x1024.jpg?v=1382528570" alt="consumtion" width="300" height="250" />
+              <img style="img-responsive" src="http://cdn.shopify.com/s/files/1/0173/5376/products/Tinke_Fitness_Monitor_-_Lightning_0002_Layer_3_1024x1024.jpg?v=1382528570" alt="consumtion" width="300" height="250" />
               <p><b>For example Tinké</b></p>
               <p>Tinké is a fitness & wellness tracker that measures your heart rate, respiratory rate, blood oxygen saturation and heart rate Variability. All it takes is a touch of your finger.</p>
             </div>

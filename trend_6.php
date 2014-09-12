@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">3D printing</h4>
             </div>
             <div class="modal-body">
-              <img src="http://www.forumforthefuture.org/sites/default/files/images/GreenFutures/GF83/Page%206_credit%20David%20Neff.jpg" alt="Nest" width="300" height="250" />
+              <img style="img-responsive" src="http://www.forumforthefuture.org/sites/default/files/images/GreenFutures/GF83/Page%206_credit%20David%20Neff.jpg" alt="Nest" width="300" height="250" />
               <p><b>For example MakerBot</b></p>
               <p>3D printing is a process of making three dimensional solid objects from a digital file. Transform a small desk in your home or classroom into an exciting creativity center, reconnect with your imagination and creative power</p>
             </div>

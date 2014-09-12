@@ -30,7 +30,7 @@
             </div>
             
             <div class="modal-body">
-              <img src="http://denisemarksblog.files.wordpress.com/2013/11/cropped-picture5.png" class="img-responsive" alt="Fuel" width="300" height="250" />
+              <img style="img-responsive" src="http://denisemarksblog.files.wordpress.com/2013/11/cropped-picture5.png" class="img-responsive" alt="Fuel" width="300" height="250" />
               <p>In a clean and polished world, especially social medias and advertising, people start showing their imperfection with pride. Honesty about your imperfections is cool.</p>
             </div>
             

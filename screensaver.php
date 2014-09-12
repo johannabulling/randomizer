@@ -29,7 +29,7 @@
         
         <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>         <br/><br/>
         <div class="image-screensaver">
-         <a href="../" > <img class="logo-screensaver img-responsive" src="img/trendyfizerlogo.png"/></a>
+         <a href="/index.php" > <img class="logo-screensaver img-responsive" src="img/trendyfizerlogo.png"/></a>
         </div>
 
         <!-- <div class="col-xs-12">

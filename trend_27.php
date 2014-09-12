@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Rental culture</h4>
             </div>
             <div class="modal-body">
-              <img src="https://pointscentric.files.wordpress.com/2014/04/uberppt.png" alt="Nest" width="300" height="250" />
+              <img style="img-responsive" src="https://pointscentric.files.wordpress.com/2014/04/uberppt.png" alt="Nest" width="300" height="250" />
               <p>People want to skip all the hassle of owning a car and instead rent them. Auto companies will have to adjust to the change and come up with new business models. It will leave a positive impact on the environment. Services like Uber and Sunfleet.</p>
             </div>
             <div class="modal-footer">

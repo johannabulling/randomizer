@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Mobile use in the developing world</h4>
             </div>
             <div class="modal-body">
-              <img src="https://blogs.state.gov/sites/default/files/styles/large/public/contributed_images/2012_0226_woman_mobile_phone.jpg?itok=RrVzjmT5" alt="Fuel" width="300" height="250" />
+              <img style="img-responsive" src="https://blogs.state.gov/sites/default/files/styles/large/public/contributed_images/2012_0226_woman_mobile_phone.jpg?itok=RrVzjmT5" alt="Fuel" width="300" height="250" />
               <p>Study in India shows that every 10 percent increase in mobile use leads to a 1.2 precent in increase in GDP. Many unsers in these countries invest often over 10 percent of their monthly income in staying connected.</p>
             </div>
             <div class="modal-footer">

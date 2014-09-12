@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Disconnecting from the digital world</h4>
             </div>
             <div class="modal-body">
-              <img src="http://mindfulmood.podbean.com/mf/web/2ci5ft/photo-water-drop3.jpg" alt="Nest" width="300" height="250" />
+              <img style="img-responsive" src="http://mindfulmood.podbean.com/mf/web/2ci5ft/photo-water-drop3.jpg" alt="Nest" width="300" height="250" />
               <p><b>For example Mindapps</b></p>
               <p>Mindfulness is "the intentional, accepting and non-judgmental focus of one's attention on the emotions, thoughts and sensations occurring in the present moment.</p>
             </div>

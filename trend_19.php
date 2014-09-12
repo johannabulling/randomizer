@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Virtual Reality</h4>
             </div>
             <div class="modal-body">
-                  <img src="https://dbvc4uanumi2d.cloudfront.net/cdn/3.8.27/wp-content/themes/oculus/img/order/dk2-product.jpg" alt="PAY" width="300" height="250" />
+                  <img style="img-responsive" src="https://dbvc4uanumi2d.cloudfront.net/cdn/3.8.27/wp-content/themes/oculus/img/order/dk2-product.jpg" alt="PAY" width="300" height="250" />
                    <p><b>Example Oculus Rift & Google glasses.</b></p>
                   <p>Virtual reality (VR), sometimes referred to as immersive multimedia, is a computer-simulated environment that can simulate physical presence in places in the real world or imagined worlds. Virtual reality can recreate sensory experiences, including virtual taste, sight, smell, sound, touch, etc.</p>
             </div>

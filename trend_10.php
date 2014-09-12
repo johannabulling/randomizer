@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Apps replacing TV</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
+                  <img style="img-responsive" src="http://blog.buyatt.com/wp-content/uploads/2013/12/tv-apps.png" alt="PAY" width="300" height="250" />
                   <p><b>For example Apple TV</b></p>
                   <p>Apple TV is a digital media player and a microconsole developed and sold by Apple Inc. It is a small network appliance and entertainment device that can receive digital data from a number of sources and stream it to capable TV for playing on the TV screen.</p>
             </div>

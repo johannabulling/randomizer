@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">M2M - Machine 2 Machine</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://www.thefwa.com/library/SMG024_Converge-BBSV.jpg" alt="PAY" width="300" height="250" />
+                  <img style="img-responsive" src="http://www.thefwa.com/library/SMG024_Converge-BBSV.jpg" alt="PAY" width="300" height="250" />
                    <p><b>Example Volvo-on-call.</b></p>
                   <p>Machine to Machine (M2M) refers to technologies that allow both wireless and wired systems to communicate with other devices of the same type.</p>
             </div>

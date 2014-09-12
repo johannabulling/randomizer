@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Laziness</h4>
             </div>
             <div class="modal-body">
-              <img src="http://firstcallmagazine.files.wordpress.com/2010/10/sofa-art.jpg" alt="consumtion" width="300" height="250" />
+              <img style="img-responsive" src="http://firstcallmagazine.files.wordpress.com/2010/10/sofa-art.jpg" alt="consumtion" width="300" height="250" />
               <p>With todays technology we can basically do everything from our sofa; ordering food, checking the weather, watch movies, go shopping, hang out with your friends etc.</p>
             </div>
             <div class="modal-footer">

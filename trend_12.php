@@ -29,7 +29,7 @@
               <h4 class="modal-title" id="myModalLabel">Over-the-top apps (OTT)</h4>
             </div>
             <div class="modal-body">
-                  <img src="http://youngsday.com/wp-content/uploads/2014/03/ott-services.jpg" alt="PAY" width="200" height="50" />
+                  <img style="img-responsive" src="http://youngsday.com/wp-content/uploads/2014/03/ott-services.jpg" alt="PAY" width="200" height="50" />
                   <p><b>Example WhatsApp, Skype etc.</b></p>
                   <p>Over-the-top content (OTT) refers to delivery of audio, video, and other media over the Internet without a multiple-system operator being involved in the control or distribution of the content. The provider may be aware of the contents of the Internet Protocol packets but is not responsible for, nor able to control, the viewing abilities, copyrights, and/or other redistribution of the content.</p>
             </div>
