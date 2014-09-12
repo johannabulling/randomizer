@@ -26,10 +26,18 @@
 <body>
   <div class="future-background-2" id="future-background"> 
     <center>
-        
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>         <br/><br/>
-        <div class="image-screensaver">
-         <a href="/index.php" > <img class="logo-screensaver img-responsive" src="img/trendyfizerlogo.png"/></a>
+        <div class="hidden-xs hidden-sm">
+          <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>         
+          <div class="image-screensaver">
+           <a href="index.php" > <img class="logo-screensaver img-responsive" src="img/trendyfizerlogo.png"/></a>
+          </div>
+        </div>
+
+        <div class="hidden-md hidden-lg">
+          <br/><br/><br/>
+          <div class="image-screensaver">
+           <a href="index.php" > <img class="logo-screensaver img-responsive" src="img/trendyfizerlogo.png"/></a>
+          </div>
         </div>
 
         <!-- <div class="col-xs-12">

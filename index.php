@@ -24,7 +24,7 @@
 </head>
 
 <body>
-  <div class="future-background" id="future-background"></div>
+  <div class="future-background hidden-xs hidden-sm" id="future-background"></div>
   <center>
       <!--[if lt IE 7]>
           <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -53,13 +53,20 @@
 
     <div class="container">
       <br/>
-      <div class="row">
-        <div class="col-xs-12 hidden-xs chosen">
+      <div class="row hidden-xs">
+        <div class="col-xs-12 chosen">
           <button type="button" id="shuffle" class="btn btn-primary btn-lg">START TRENDYFIZER</button>
           <input type="text" size="3" value="27" style="visibility: hidden;" />  
           <button type="button" id="show_all" class="btn btn-success btn-lg">DISPLAY ALL</button>
         </div>
+      </div>
 
+      <div class="row visible-xs">
+        <div class="col-xs-12 chosen">
+          <button type="button" id="shuffle_mobile" class="btn btn-primary btn-lg btn-block">START TRENDYFIZER</button>
+          <input type="text" size="3" value="27" style="visibility: hidden;" />  
+          <button type="button" id="show_all_mobile" class="btn btn-success btn-lg btn-block">DISPLAY ALL</button>
+        </div>
       </div>
 
       <br><br>
@@ -197,6 +204,27 @@
 
     $(function () {
         $("#shuffle").click(function () {
+            $('#future-background').css('visibility','visible').hide().fadeIn(500, function() {
+            var $all = $("div.trend").show();
+            $(shuffle($all).slice(0, $("input").val())).hide();
+            $('.trend').addClass('col-xs-12 col-md-4 chosen').removeClass('col-xs-12 col-md-3 col-sm-6');
+            });
+        });
+    });
+
+
+    $(function () {
+        $("#show_all_mobile").click(function () {
+            // var $all = $("div.trend").show();
+            var $all = $("div.trend").hide();
+            $('.trend').addClass('col-xs-12 col-md-3 col-sm-6').removeClass('col-xs-12 col-md-4');
+            $('#future-background').css('visibility','hidden').fadeIn();
+            startfadein();
+        });
+    });
+
+    $(function () {
+        $("#shuffle_mobile").click(function () {
             $('#future-background').css('visibility','visible').hide().fadeIn(500, function() {
             var $all = $("div.trend").show();
             $(shuffle($all).slice(0, $("input").val())).hide();
